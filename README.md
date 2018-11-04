@@ -1,2 +1,2 @@
 # Smart-Realm
-Land Ownership onockchain a bl
+Land Ownership on a blockchain
